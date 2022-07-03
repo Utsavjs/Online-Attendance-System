@@ -1,4 +1,4 @@
-name: cartoonify
+name: attendance
 channels:
   - conda-forge
   - defaults
